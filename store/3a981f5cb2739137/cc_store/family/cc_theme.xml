@@ -18713,6 +18713,9 @@
     <component type="facedecoration" id="yankee_cap" path="yankee_cap" name="yankee_cap" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
+    <component type="facedecoration" id="luigihat" path="luigihat" name="luigihat" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
     <component type="facedecoration" id="Fan_Logo" path="Fan_Logo" name="Fan_Logo" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
