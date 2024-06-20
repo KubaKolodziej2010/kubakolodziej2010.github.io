@@ -1,5 +1,5 @@
 # radicalgreenanimate.github.io
- goanimate remastered custom assets!1!1
+ GoAnimate Assets
 
 
-For Dominic Jennings
+For Dominic Jennings And JosephAnimate2021
